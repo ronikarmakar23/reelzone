@@ -1,0 +1,15 @@
+.banner-container{
+    width: 100%;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 10px;
+}
+.upcoming-movie{
+    margin-bottom: 10px;
+}
+.up-next{
+    padding: 10px 10px 0 10px;
+
+}
